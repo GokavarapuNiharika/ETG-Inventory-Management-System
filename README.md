@@ -13,7 +13,7 @@ This project also allows the customer to purchase the products and to generate a
 
 ## Files
 
-**1. IMS.ipynb:** This Jupyter notebook contains the code to add, delete and purchase the products by using python 3
+**1. IMS.ipynb:** This Jupyter notebook contains the code to add, delete and purchase the products by using the tool python 3.
 **2. products.json:** This file contains the inventory of all the products with details like name, quantity, price, category and expiry date.
 **3. update.json:** This file contains the updated inventory of the products after adding, deleting or purchasing a product from the original inventory.
 **4. sales.json:** This file contains the transaction details like Transaction ID, Name of the customer, products purchased, quantity and the total amount of purchase.
